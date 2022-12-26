@@ -31,3 +31,8 @@ Distributed under the MIT License. See https://github.com/Eltonjohn-Oketch/Humor
 # Model Methods
 
 Huggingface transformers
+
+# Author
+
+Eltonjohn
+
