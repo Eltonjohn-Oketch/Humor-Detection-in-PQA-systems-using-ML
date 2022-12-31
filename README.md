@@ -34,5 +34,5 @@ Huggingface transformers
 
 # Author
 
-Eltonjohn oketch
+Eltonjohn oketch.
 
